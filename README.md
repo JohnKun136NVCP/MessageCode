@@ -13,15 +13,10 @@ This version is 1.0.0 a simple script</p>
 ┃┃┃┃┃━╋━━┣━━┃╭╮┃╰╯┃┃━┫┃┃━┫┃┃┃╰━┫╰╯┃╰╯┃┃━┫┣╮
 ╰┻┻┻━━┻━━┻━━┻╯╰┻━╮┣━━╯╰━━┻╯╰┻━━┻━━┻━━┻━━┻┻╯
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
-
-Cretor:
-╭━┳━┳━┳━━┳━┳━┳━╮
-┃╋┃╋┃┃┣╮╭┫┳┫╭┫┃┃
-┃╭┫╮┫┃┃┃┃┃┻┫╰┫┃┃
-╰╯╰┻┻━╯╰╯╰━┻━┻━╯
-Choose an option:
-1. Code
-2. Decode
-3. Quit
 </p>
+
+<p> You can type your message and this code is going to trasnlate in orden to numbers.
+Example 
+<em> Hellow world</em> and the output is  <em>8294707073515173617093</em></p>
+
+<h3>Enjoy it! We working for making much better.</h3>
