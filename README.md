@@ -24,5 +24,4 @@ Choose an option:
 1. Code
 2. Decode
 3. Quit
-```
 </p>
