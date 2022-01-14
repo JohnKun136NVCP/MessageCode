@@ -19,4 +19,4 @@ This version is 1.0.0 a simple script</p>
 Example 
 the input is <em> Hellow world</em> and the output is  <em>8294707073515173617093</em></p>
 
-<h3>Enjoy it! We working for making much better.</h3>
+<h3>Enjoy it!</h3>
